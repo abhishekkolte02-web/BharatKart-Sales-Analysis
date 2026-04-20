@@ -38,5 +38,5 @@ The dataset was cleaned using Python, analyzed using SQL, and visualized using P
   - Data standardization required for accurate analysis
   - Ensuring clean data before SQL analysis
     
-**Conclusion****:**
+**Conclusion:**
 This project highlights the complete data analytics lifecycle from data cleaning to visualization and demonstrates how data-driven insights can support business decisions.
